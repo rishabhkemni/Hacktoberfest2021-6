@@ -1,10 +1,6 @@
 /*
-Example:-
-Input m & n
-100
-500
-Fascinating Numbers: 192  219  273  327
-Frequency Of Fascinating Numbers:4
+Fascinating Number: When a number( 3 digits or more ) is multiplied by 2 and 3, and when both these products 
+are concatenated with the original number, then it results in all digits from 1 to 9 present exactly once
 */
 
 package com.company;
@@ -83,3 +79,11 @@ public class Fascinating
     }
 }
 
+/*
+Example:-
+Input m & n
+100
+500
+Fascinating Numbers: 192  219  273  327
+Frequency Of Fascinating Numbers:4
+*/
